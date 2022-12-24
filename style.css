@@ -1,0 +1,12 @@
+*{
+   
+    font-family: 'Inter', sans-serif;
+}
+.display-4 {
+    margin:1rem;
+}
+
+.card img{
+    height: 280px;
+}
+
